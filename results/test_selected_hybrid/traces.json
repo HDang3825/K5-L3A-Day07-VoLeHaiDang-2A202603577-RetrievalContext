@@ -1,0 +1,123 @@
+[
+  {
+    "query_id": "test-01",
+    "status": "answered",
+    "answer": "Vinamilk cam kết đề cao bình đẳng giới trong Chính sách Tuyển dụng, đảm bảo không có sự kỳ thị và phân biệt đối xử giữa các ứng viên về giới tính, dân tộc, màu da, thành phần xã hội, tình trạng hôn nhân, tín ngưỡng, tôn giáo. Tất cả các ứng viên đều được đối xử công bằng và minh bạch trong suốt quá trình tuyển dụng [strategy_b_p102_0718].",
+    "citations": [
+      "strategy_b_p102_0718"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "chính sách tuyển dụng Vinamilk chống phân biệt đối xử",
+        "filter": {
+          "section": "phat_trien_ben_vung"
+        }
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 8.22341012954712
+  },
+  {
+    "query_id": "test-02",
+    "status": "answered",
+    "answer": "Đến năm 2025, Vinamilk đã đạt được chứng nhận danh hiệu Hàng Việt Nam Chất Lượng Cao trong 29 năm liên tiếp [strategy_b_p103_0730].",
+    "citations": [
+      "strategy_b_p103_0730"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Vinamilk chứng nhận Hàng Việt Nam Chất Lượng Cao 2025",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 4.834082841873169
+  },
+  {
+    "query_id": "test-03",
+    "status": "answered",
+    "answer": "Hệ thống các đơn vị trực thuộc trong nước của Vinamilk bao gồm 13 nhà máy sản xuất sữa tại ba miền Bắc, Trung, Nam [strategy_b_p14_0052].",
+    "citations": [
+      "strategy_b_p14_0052"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "số lượng nhà máy sản xuất sữa của Vinamilk tại ba miền Bắc, Trung, Nam",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 4.376362562179565
+  },
+  {
+    "query_id": "test-04",
+    "status": "answered",
+    "answer": "Trong trường hợp cần thiết, Chủ tịch Hội đồng quản trị có quyền tạm đình chỉ những quyết định của Tổng Giám đốc để hạn chế tổn thất và sau đó phải báo cáo bằng văn bản đến Hội đồng quản trị để có quyết định chính thức về việc đình chỉ hoặc hủy bỏ quyết định tạm đình chỉ đó trong vòng 15 ngày kể từ ngày ra quyết định tạm đình chỉ [strategy_b_p90_0626].",
+    "citations": [
+      "strategy_b_p90_0626"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "quyền hạn Chủ tịch HĐQT đối với quyết định Tổng Giám đốc",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 6.283136606216431
+  },
+  {
+    "query_id": "test-05",
+    "status": "answered",
+    "answer": "Trang web chính thức của Vinamilk được duy trì hoạt động bằng hai ngôn ngữ là tiếng Việt và tiếng Anh [strategy_b_p79_0530].",
+    "citations": [
+      "strategy_b_p79_0530"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "ngôn ngữ trang web chính thức Vinamilk",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 3.480043888092041
+  },
+  {
+    "query_id": "test-unans-01",
+    "status": "abstain",
+    "answer": "Tài liệu không có đủ bằng chứng để trả lời câu hỏi này.",
+    "citations": [],
+    "events": [
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 1.6453399658203125
+  },
+  {
+    "query_id": "test-unans-02",
+    "status": "abstain",
+    "answer": "Tài liệu không có đủ bằng chứng để trả lời câu hỏi này.",
+    "citations": [],
+    "events": [
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 4.369860410690308
+  }
+]

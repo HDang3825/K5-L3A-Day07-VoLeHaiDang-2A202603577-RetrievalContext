@@ -5,7 +5,9 @@ __pycache__/
 .env.*
 !.env.example
 .codex-log/
+venv/
 
 # Local datasets and generated output; share permitted artifacts deliberately
 starter/data/
 starter/results/
+data/chroma_db/

@@ -1,0 +1,123 @@
+[
+  {
+    "query_id": "dev-01",
+    "citation_support": [
+      false
+    ],
+    "answer_grade": 1,
+    "abstention_correct": null
+  },
+  {
+    "query_id": "dev-02",
+    "citation_support": [
+      false
+    ],
+    "answer_grade": 1,
+    "abstention_correct": null
+  },
+  {
+    "query_id": "dev-03",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "abstention_correct": null
+  },
+  {
+    "query_id": "dev-04",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "abstention_correct": null
+  },
+  {
+    "query_id": "dev-05",
+    "citation_support": [
+      false
+    ],
+    "answer_grade": 1,
+    "abstention_correct": null
+  },
+  {
+    "query_id": "dev-06",
+    "citation_support": [],
+    "answer_grade": 0,
+    "abstention_correct": null
+  },
+  {
+    "query_id": "dev-07",
+    "citation_support": [],
+    "answer_grade": 0,
+    "abstention_correct": null
+  },
+  {
+    "query_id": "dev-08",
+    "citation_support": [],
+    "answer_grade": 0,
+    "abstention_correct": null
+  },
+  {
+    "query_id": "dev-09",
+    "citation_support": [
+      false
+    ],
+    "answer_grade": 1,
+    "abstention_correct": null
+  },
+  {
+    "query_id": "dev-10",
+    "citation_support": [],
+    "answer_grade": 0,
+    "abstention_correct": null
+  },
+  {
+    "query_id": "dev-11",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "abstention_correct": null
+  },
+  {
+    "query_id": "dev-12",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "abstention_correct": null
+  },
+  {
+    "query_id": "dev-13",
+    "citation_support": [],
+    "answer_grade": 0,
+    "abstention_correct": null
+  },
+  {
+    "query_id": "dev-14",
+    "citation_support": [
+      true,
+      true
+    ],
+    "answer_grade": 2,
+    "abstention_correct": null
+  },
+  {
+    "query_id": "dev-15",
+    "citation_support": [],
+    "answer_grade": 0,
+    "abstention_correct": null
+  },
+  {
+    "query_id": "dev-unans-01",
+    "citation_support": [],
+    "answer_grade": 0,
+    "abstention_correct": true
+  },
+  {
+    "query_id": "dev-unans-02",
+    "citation_support": [],
+    "answer_grade": 0,
+    "abstention_correct": true
+  }
+]

@@ -1,0 +1,300 @@
+[
+  {
+    "query_id": "dev-01",
+    "status": "answered",
+    "answer": "Năm 2025 đánh dấu sự kiện kỷ niệm 50 năm thành lập của Vinamilk [strategy_b_p3_0003].",
+    "citations": [
+      "strategy_b_p3_0003"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "kỷ niệm thành lập Vinamilk 2025",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 4.527202844619751
+  },
+  {
+    "query_id": "dev-02",
+    "status": "answered",
+    "answer": "Trong thông điệp mở đầu, Tổng Giám đốc nhìn lại hành trình phát triển của Vinamilk trong 50 năm [strategy_b_p47_0286].",
+    "citations": [
+      "strategy_b_p47_0286"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "thông điệp mở đầu Tổng Giám đốc Vinamilk hành trình phát triển",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 4.209135293960571
+  },
+  {
+    "query_id": "dev-03",
+    "status": "answered",
+    "answer": "Sứ mệnh của Vinamilk đối với cộng đồng và xã hội là 'Vinamilk cam kết mang đến cho cộng đồng nguồn dinh dưỡng tốt nhất, chất lượng nhất bằng chính sự trân trọng, tình yêu và trách nhiệm cao của mình với cuộc sống con người và xã hội' [strategy_b_p8_0028].",
+    "citations": [
+      "strategy_b_p8_0028"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "tuyên bố sứ mệnh của Vinamilk đối với cộng đồng và xã hội",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 5.2288830280303955
+  },
+  {
+    "query_id": "dev-04",
+    "status": "abstain",
+    "answer": "Tài liệu không có đủ bằng chứng để trả lời cụ thể mục tiêu định hướng tầm nhìn dài hạn của Vinamilk là trở thành biểu tượng gì tại Việt Nam.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "tầm nhìn dài hạn của Vinamilk",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 5.518210411071777
+  },
+  {
+    "query_id": "dev-05",
+    "status": "answered",
+    "answer": "Vinamilk tập trung tối ưu hóa hoạt động phân phối thông qua việc xây dựng nền tảng năng lực làm chủ công nghệ, tự động hóa và phân tích dữ liệu, bắt đầu với hoạt động bán hàng, tiếp thị kỹ thuật số, và quản lý chuỗi cung ứng [strategy_b_p9_0036].",
+    "citations": [
+      "strategy_b_p9_0036"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "tối ưu hóa hoạt động phân phối Vinamilk 2025",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 5.797438144683838
+  },
+  {
+    "query_id": "dev-06",
+    "status": "answered",
+    "answer": "Một thành viên độc lập HĐQT của Vinamilk đồng thời đảm nhiệm vị trí Chủ tịch Ủy ban Kiểm toán của Công ty Cổ phần Dược Hậu Giang – DHG Pharma (DHG) [strategy_b_p18_0069].",
+    "citations": [
+      "strategy_b_p18_0069"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "thành viên độc lập HĐQT Vinamilk Chủ tịch Ủy ban Kiểm toán công ty dược phẩm niêm yết",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 4.604948997497559
+  },
+  {
+    "query_id": "dev-07",
+    "status": "abstain",
+    "answer": "Tài liệu không có đủ bằng chứng để trả lời câu hỏi này.",
+    "citations": [],
+    "events": [
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 1.0323503017425537
+  },
+  {
+    "query_id": "dev-08",
+    "status": "abstain",
+    "answer": "Tài liệu không có đủ bằng chứng để trả lời câu hỏi này.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "lợi nhuận sau thuế năm 2025 Vinamilk",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 3.7165334224700928
+  },
+  {
+    "query_id": "dev-09",
+    "status": "answered",
+    "answer": "Tổ chức Brand Finance đã xếp hạng Vinamilk vào Top 5% thương hiệu mạnh nhất thế giới với xếp hạng AAA+ trong năm 2025 [strategy_b_p45_0272].",
+    "citations": [
+      "strategy_b_p45_0272"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Brand Finance xếp hạng Vinamilk 2025",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 6.812167644500732
+  },
+  {
+    "query_id": "dev-10",
+    "status": "abstain",
+    "answer": "Tài liệu không có đủ bằng chứng để trả lời câu hỏi này.",
+    "citations": [],
+    "events": [
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 1.718184471130371
+  },
+  {
+    "query_id": "dev-11",
+    "status": "answered",
+    "answer": "Người nội bộ của Công ty Vinamilk theo quy định quản trị bao gồm: thành viên HĐQT, thành viên Giám đốc Điều hành, Kế toán trưởng, Thư ký Công ty, Giám đốc KTNB, Người phụ trách quản trị Công ty [strategy_b_p70_0431].",
+    "citations": [
+      "strategy_b_p70_0431"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "người nội bộ công ty Vinamilk quy định quản trị",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 4.422834157943726
+  },
+  {
+    "query_id": "dev-12",
+    "status": "answered",
+    "answer": "Bản điều chỉnh của Nội quy lao động được Tổng Giám đốc ký ban hành vào ngày 16/09/2024 [strategy_b_p75_0485].",
+    "citations": [
+      "strategy_b_p75_0485"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "ngày ký ban hành Nội quy lao động Tổng Giám đốc Vinamilk 2025",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 5.193912506103516
+  },
+  {
+    "query_id": "dev-13",
+    "status": "abstain",
+    "answer": "Báo cáo không đề cập cụ thể mức thù lao năm 2025 của Chủ tịch HĐQT Nguyễn Hạnh Phúc, chỉ nêu tổng thù lao cho HĐQT là 25 tỷ đồng với cơ cấu 11 thành viên [strategy_b_p65_0370][strategy_b_p77_0515].",
+    "citations": [
+      "strategy_b_p65_0370",
+      "strategy_b_p77_0515"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "mức thù lao năm 2025 của Chủ tịch HĐQT Nguyễn Hạnh Phúc",
+        "filter": {
+          "section": "quan_tri_cong_ty"
+        }
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 7.19954514503479
+  },
+  {
+    "query_id": "dev-14",
+    "status": "answered",
+    "answer": "Vinamilk đã đầu tư triển khai các dây chuyền công nghệ tiên tiến như Tetra Pak A3 Speed và vận hành hệ thống kho thông minh để tối ưu hóa hiệu suất sản xuất [strategy_b_p103_0727].",
+    "citations": [
+      "strategy_b_p103_0727"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "dây chuyền công nghệ tiên tiến Vinamilk 2025",
+        "filter": {
+          "section": "phat_trien_ben_vung"
+        }
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 7.623110294342041
+  },
+  {
+    "query_id": "dev-15",
+    "status": "answered",
+    "answer": "Bản đầy đủ của báo cáo tài chính Riêng và Hợp Nhất đã kiểm toán của Vinamilk năm 2025 được công bố trên website của Công ty vào ngày 27 tháng 02 năm 2025 [strategy_b_p107_0746].",
+    "citations": [
+      "strategy_b_p107_0746"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "ngày công bố BCTC kiểm toán năm 2025 Vinamilk",
+        "filter": {
+          "section": "bao_cao_tai_chinh"
+        }
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 4.196515083312988
+  },
+  {
+    "query_id": "dev-unans-01",
+    "status": "abstain",
+    "answer": "Tài liệu không có đủ bằng chứng để trả lời câu hỏi này.",
+    "citations": [],
+    "events": [
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 2.1901824474334717
+  },
+  {
+    "query_id": "dev-unans-02",
+    "status": "abstain",
+    "answer": "Tài liệu không có đủ bằng chứng để trả lời câu hỏi này.",
+    "citations": [],
+    "events": [
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 1.4495055675506592
+  }
+]

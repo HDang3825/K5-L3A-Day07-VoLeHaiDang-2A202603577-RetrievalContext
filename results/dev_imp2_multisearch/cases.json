@@ -1,0 +1,87 @@
+[
+  {
+    "id": "dev-01",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "dev-02",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "dev-03",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "dev-04",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "dev-05",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "dev-06",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "dev-07",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "dev-08",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "dev-09",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "dev-10",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "dev-11",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "dev-12",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "dev-13",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "dev-14",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "dev-15",
+    "split": "dev",
+    "answerable": true
+  },
+  {
+    "id": "dev-unans-01",
+    "split": "dev",
+    "answerable": false
+  },
+  {
+    "id": "dev-unans-02",
+    "split": "dev",
+    "answerable": false
+  }
+]

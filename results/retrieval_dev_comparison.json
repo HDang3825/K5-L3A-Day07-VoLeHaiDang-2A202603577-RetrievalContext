@@ -1,0 +1,1070 @@
+[
+  {
+    "retriever": "BM25 (Lexical)",
+    "total_answerable": 15,
+    "hit_at_1": "9/15 (60.0%)",
+    "hit_at_3": "12/15 (80.0%)",
+    "context_evidence_rate": "9/15 (60.0%)",
+    "avg_latency_ms": "13.7ms",
+    "total_time_s": "0.21s",
+    "traces": [
+      {
+        "id": "dev-01",
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "context_hit": false,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p4_0008",
+            "page": 4,
+            "score": 23.697563541825723
+          },
+          {
+            "chunk_id": "strategy_b_p52_0323",
+            "page": 52,
+            "score": 22.894026564709158
+          },
+          {
+            "chunk_id": "strategy_b_p43_0251",
+            "page": 43,
+            "score": 20.98622448787897
+          }
+        ]
+      },
+      {
+        "id": "dev-02",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "context_hit": true,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p5_0015",
+            "page": 5,
+            "score": 25.198229590442416
+          },
+          {
+            "chunk_id": "strategy_b_p47_0286",
+            "page": 47,
+            "score": 23.23243888316961
+          },
+          {
+            "chunk_id": "strategy_b_p37_0214",
+            "page": 37,
+            "score": 20.597109614969177
+          }
+        ]
+      },
+      {
+        "id": "dev-03",
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "context_hit": false,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p73_0465",
+            "page": 73,
+            "score": 28.99363642705084
+          },
+          {
+            "chunk_id": "strategy_b_p81_0552",
+            "page": 81,
+            "score": 23.387195311971844
+          },
+          {
+            "chunk_id": "strategy_b_p8_0028",
+            "page": 8,
+            "score": 22.958050712284823
+          }
+        ]
+      },
+      {
+        "id": "dev-04",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "context_hit": true,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p8_0028",
+            "page": 8,
+            "score": 25.21202406965546
+          },
+          {
+            "chunk_id": "strategy_b_p81_0555",
+            "page": 81,
+            "score": 20.238076231325664
+          },
+          {
+            "chunk_id": "strategy_b_p81_0552",
+            "page": 81,
+            "score": 18.927206259676552
+          }
+        ]
+      },
+      {
+        "id": "dev-05",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "context_hit": true,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p10_0038",
+            "page": 10,
+            "score": 35.14071844750321
+          },
+          {
+            "chunk_id": "strategy_b_p26_0114",
+            "page": 26,
+            "score": 25.580838859104368
+          },
+          {
+            "chunk_id": "strategy_b_p9_0036",
+            "page": 9,
+            "score": 23.76003573430264
+          }
+        ]
+      },
+      {
+        "id": "dev-06",
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "context_hit": false,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p82_0565",
+            "page": 82,
+            "score": 36.7425828310309
+          },
+          {
+            "chunk_id": "strategy_b_p93_0660",
+            "page": 93,
+            "score": 34.53871841705785
+          },
+          {
+            "chunk_id": "strategy_b_p89_0620",
+            "page": 89,
+            "score": 34.53090493288551
+          }
+        ]
+      },
+      {
+        "id": "dev-07",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "context_hit": true,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p26_0108",
+            "page": 26,
+            "score": 38.099678736688155
+          },
+          {
+            "chunk_id": "strategy_b_p27_0119",
+            "page": 27,
+            "score": 31.748130001702716
+          },
+          {
+            "chunk_id": "strategy_b_p97_0693",
+            "page": 97,
+            "score": 27.66429152699039
+          }
+        ]
+      },
+      {
+        "id": "dev-08",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "context_hit": true,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p28_0129",
+            "page": 28,
+            "score": 28.50532838688109
+          },
+          {
+            "chunk_id": "strategy_b_p5_0018",
+            "page": 5,
+            "score": 26.010630480264705
+          },
+          {
+            "chunk_id": "strategy_b_p48_0294",
+            "page": 48,
+            "score": 25.72043324837855
+          }
+        ]
+      },
+      {
+        "id": "dev-09",
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "context_hit": false,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p61_0352",
+            "page": 61,
+            "score": 34.4850311816359
+          },
+          {
+            "chunk_id": "strategy_b_p45_0272",
+            "page": 45,
+            "score": 28.648706677392916
+          },
+          {
+            "chunk_id": "strategy_b_p62_0354",
+            "page": 62,
+            "score": 28.283578470261318
+          }
+        ]
+      },
+      {
+        "id": "dev-10",
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "context_hit": false,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p16_0062",
+            "page": 16,
+            "score": 57.296915203493484
+          },
+          {
+            "chunk_id": "strategy_b_p62_0354",
+            "page": 62,
+            "score": 52.626138766442565
+          },
+          {
+            "chunk_id": "strategy_b_p61_0352",
+            "page": 61,
+            "score": 33.14663216248915
+          }
+        ]
+      },
+      {
+        "id": "dev-11",
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "context_hit": false,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p69_0426",
+            "page": 69,
+            "score": 20.772476906197596
+          },
+          {
+            "chunk_id": "strategy_b_p74_0481",
+            "page": 74,
+            "score": 19.353948923998246
+          },
+          {
+            "chunk_id": "strategy_b_p67_0409",
+            "page": 67,
+            "score": 18.57450256773418
+          }
+        ]
+      },
+      {
+        "id": "dev-12",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "context_hit": true,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p75_0485",
+            "page": 75,
+            "score": 34.66272851206421
+          },
+          {
+            "chunk_id": "strategy_b_p89_0616",
+            "page": 89,
+            "score": 21.207761961613656
+          },
+          {
+            "chunk_id": "strategy_b_p89_0617",
+            "page": 89,
+            "score": 21.072433719881566
+          }
+        ]
+      },
+      {
+        "id": "dev-13",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "context_hit": true,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p78_0518",
+            "page": 78,
+            "score": 32.03120234308458
+          },
+          {
+            "chunk_id": "strategy_b_p89_0621",
+            "page": 89,
+            "score": 31.84001066804551
+          },
+          {
+            "chunk_id": "strategy_b_p77_0517",
+            "page": 77,
+            "score": 26.387315669325172
+          }
+        ]
+      },
+      {
+        "id": "dev-14",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "context_hit": true,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p103_0727",
+            "page": 103,
+            "score": 47.01469772961863
+          },
+          {
+            "chunk_id": "strategy_b_p103_0732",
+            "page": 103,
+            "score": 25.00908026702606
+          },
+          {
+            "chunk_id": "strategy_b_p103_0728",
+            "page": 103,
+            "score": 19.07803937946595
+          }
+        ]
+      },
+      {
+        "id": "dev-15",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "context_hit": true,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p107_0746",
+            "page": 107,
+            "score": 39.33009661169776
+          },
+          {
+            "chunk_id": "strategy_b_p106_0742",
+            "page": 106,
+            "score": 16.97182922626688
+          },
+          {
+            "chunk_id": "strategy_b_p106_0744",
+            "page": 106,
+            "score": 15.944900938608004
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "retriever": "Dense (EmbeddingGemma-2)",
+    "total_answerable": 15,
+    "hit_at_1": "6/15 (40.0%)",
+    "hit_at_3": "8/15 (53.3%)",
+    "context_evidence_rate": "7/15 (46.7%)",
+    "avg_latency_ms": "191.1ms",
+    "total_time_s": "2.87s",
+    "traces": [
+      {
+        "id": "dev-01",
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "context_hit": false,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p27_0116",
+            "page": 27,
+            "score": 0.8840941190719604
+          },
+          {
+            "chunk_id": "strategy_b_p3_0003",
+            "page": 3,
+            "score": 0.8779038190841675
+          },
+          {
+            "chunk_id": "strategy_b_p2_0002",
+            "page": 2,
+            "score": 0.8721650838851929
+          }
+        ]
+      },
+      {
+        "id": "dev-02",
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "context_hit": false,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p2_0002",
+            "page": 2,
+            "score": 0.8386451005935669
+          },
+          {
+            "chunk_id": "strategy_b_p27_0116",
+            "page": 27,
+            "score": 0.8359785079956055
+          },
+          {
+            "chunk_id": "strategy_b_p3_0003",
+            "page": 3,
+            "score": 0.8347008228302002
+          }
+        ]
+      },
+      {
+        "id": "dev-03",
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "context_hit": false,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p73_0465",
+            "page": 73,
+            "score": 0.8517173528671265
+          },
+          {
+            "chunk_id": "strategy_b_p8_0028",
+            "page": 8,
+            "score": 0.8503695130348206
+          },
+          {
+            "chunk_id": "strategy_b_p52_0324",
+            "page": 52,
+            "score": 0.8476744890213013
+          }
+        ]
+      },
+      {
+        "id": "dev-04",
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "context_hit": true,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p5_0021",
+            "page": 5,
+            "score": 0.850557804107666
+          },
+          {
+            "chunk_id": "strategy_b_p8_0028",
+            "page": 8,
+            "score": 0.8501351475715637
+          },
+          {
+            "chunk_id": "strategy_b_p46_0284",
+            "page": 46,
+            "score": 0.8433984518051147
+          }
+        ]
+      },
+      {
+        "id": "dev-05",
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "context_hit": false,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p43_0254",
+            "page": 43,
+            "score": 0.8204948902130127
+          },
+          {
+            "chunk_id": "strategy_b_p46_0279",
+            "page": 46,
+            "score": 0.8140920400619507
+          },
+          {
+            "chunk_id": "strategy_b_p42_0245",
+            "page": 42,
+            "score": 0.8132100105285645
+          }
+        ]
+      },
+      {
+        "id": "dev-06",
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "context_hit": false,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p22_0095",
+            "page": 22,
+            "score": 0.8417532444000244
+          },
+          {
+            "chunk_id": "strategy_b_p23_0099",
+            "page": 23,
+            "score": 0.8346647024154663
+          },
+          {
+            "chunk_id": "strategy_b_p24_0102",
+            "page": 24,
+            "score": 0.8295465111732483
+          }
+        ]
+      },
+      {
+        "id": "dev-07",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "context_hit": true,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p26_0108",
+            "page": 26,
+            "score": 0.8238896727561951
+          },
+          {
+            "chunk_id": "strategy_b_p97_0693",
+            "page": 97,
+            "score": 0.8069474101066589
+          },
+          {
+            "chunk_id": "strategy_b_p46_0279",
+            "page": 46,
+            "score": 0.7962014079093933
+          }
+        ]
+      },
+      {
+        "id": "dev-08",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "context_hit": true,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p28_0129",
+            "page": 28,
+            "score": 0.8803077340126038
+          },
+          {
+            "chunk_id": "strategy_b_p89_0612",
+            "page": 89,
+            "score": 0.8576416969299316
+          },
+          {
+            "chunk_id": "strategy_b_p5_0018",
+            "page": 5,
+            "score": 0.8535387516021729
+          }
+        ]
+      },
+      {
+        "id": "dev-09",
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "context_hit": false,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p45_0272",
+            "page": 45,
+            "score": 0.8874436616897583
+          },
+          {
+            "chunk_id": "strategy_b_p4_0010",
+            "page": 4,
+            "score": 0.8611271381378174
+          },
+          {
+            "chunk_id": "strategy_b_p60_0349",
+            "page": 60,
+            "score": 0.8599216938018799
+          }
+        ]
+      },
+      {
+        "id": "dev-10",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "context_hit": true,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p62_0354",
+            "page": 62,
+            "score": 0.8426981568336487
+          },
+          {
+            "chunk_id": "strategy_b_p16_0062",
+            "page": 16,
+            "score": 0.8412519693374634
+          },
+          {
+            "chunk_id": "strategy_b_p60_0349",
+            "page": 60,
+            "score": 0.8387959003448486
+          }
+        ]
+      },
+      {
+        "id": "dev-11",
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "context_hit": false,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p9_0034",
+            "page": 9,
+            "score": 0.8179436922073364
+          },
+          {
+            "chunk_id": "strategy_b_p9_0033",
+            "page": 9,
+            "score": 0.8127096891403198
+          },
+          {
+            "chunk_id": "strategy_b_p88_0610",
+            "page": 88,
+            "score": 0.8040788173675537
+          }
+        ]
+      },
+      {
+        "id": "dev-12",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "context_hit": true,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p75_0485",
+            "page": 75,
+            "score": 0.8311471939086914
+          },
+          {
+            "chunk_id": "strategy_b_p89_0616",
+            "page": 89,
+            "score": 0.7697626352310181
+          },
+          {
+            "chunk_id": "strategy_b_p89_0617",
+            "page": 89,
+            "score": 0.7693219184875488
+          }
+        ]
+      },
+      {
+        "id": "dev-13",
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "context_hit": false,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p77_0515",
+            "page": 77,
+            "score": 0.8636741638183594
+          },
+          {
+            "chunk_id": "strategy_b_p65_0370",
+            "page": 65,
+            "score": 0.842048168182373
+          },
+          {
+            "chunk_id": "strategy_b_p78_0520",
+            "page": 78,
+            "score": 0.8307108283042908
+          }
+        ]
+      },
+      {
+        "id": "dev-14",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "context_hit": true,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p103_0727",
+            "page": 103,
+            "score": 0.8547706604003906
+          },
+          {
+            "chunk_id": "strategy_b_p103_0732",
+            "page": 103,
+            "score": 0.8339159488677979
+          },
+          {
+            "chunk_id": "strategy_b_p103_0728",
+            "page": 103,
+            "score": 0.8249320983886719
+          }
+        ]
+      },
+      {
+        "id": "dev-15",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "context_hit": true,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p107_0746",
+            "page": 107,
+            "score": 0.875939130783081
+          },
+          {
+            "chunk_id": "strategy_b_p110_0756",
+            "page": 110,
+            "score": 0.8272426128387451
+          },
+          {
+            "chunk_id": "strategy_b_p108_0747",
+            "page": 108,
+            "score": 0.8222846984863281
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "retriever": "Hybrid (RRF)",
+    "total_answerable": 15,
+    "hit_at_1": "10/15 (66.7%)",
+    "hit_at_3": "12/15 (80.0%)",
+    "context_evidence_rate": "10/15 (66.7%)",
+    "avg_latency_ms": "169.7ms",
+    "total_time_s": "2.54s",
+    "traces": [
+      {
+        "id": "dev-01",
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "context_hit": false,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p27_0116",
+            "page": 27,
+            "score": 0.01639344262295082
+          },
+          {
+            "chunk_id": "strategy_b_p4_0008",
+            "page": 4,
+            "score": 0.01639344262295082
+          },
+          {
+            "chunk_id": "strategy_b_p3_0003",
+            "page": 3,
+            "score": 0.016129032258064516
+          }
+        ]
+      },
+      {
+        "id": "dev-02",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "context_hit": true,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p5_0015",
+            "page": 5,
+            "score": 0.03131881575727918
+          },
+          {
+            "chunk_id": "strategy_b_p4_0008",
+            "page": 4,
+            "score": 0.03055037313432836
+          },
+          {
+            "chunk_id": "strategy_b_p2_0001",
+            "page": 2,
+            "score": 0.030090497737556562
+          }
+        ]
+      },
+      {
+        "id": "dev-03",
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "context_hit": false,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p73_0465",
+            "page": 73,
+            "score": 0.03278688524590164
+          },
+          {
+            "chunk_id": "strategy_b_p8_0028",
+            "page": 8,
+            "score": 0.03200204813108039
+          },
+          {
+            "chunk_id": "strategy_b_p52_0324",
+            "page": 52,
+            "score": 0.029030910609857977
+          }
+        ]
+      },
+      {
+        "id": "dev-04",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "context_hit": true,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p8_0028",
+            "page": 8,
+            "score": 0.03252247488101534
+          },
+          {
+            "chunk_id": "strategy_b_p5_0020",
+            "page": 5,
+            "score": 0.028991596638655463
+          },
+          {
+            "chunk_id": "strategy_b_p45_0273",
+            "page": 45,
+            "score": 0.028404512489927477
+          }
+        ]
+      },
+      {
+        "id": "dev-05",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "context_hit": true,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p10_0038",
+            "page": 10,
+            "score": 0.031099324975891997
+          },
+          {
+            "chunk_id": "strategy_b_p28_0132",
+            "page": 28,
+            "score": 0.027583600982429624
+          },
+          {
+            "chunk_id": "strategy_b_p43_0254",
+            "page": 43,
+            "score": 0.01639344262295082
+          }
+        ]
+      },
+      {
+        "id": "dev-06",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "context_hit": true,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p18_0069",
+            "page": 18,
+            "score": 0.03125
+          },
+          {
+            "chunk_id": "strategy_b_p82_0566",
+            "page": 82,
+            "score": 0.02900988017658188
+          },
+          {
+            "chunk_id": "strategy_b_p22_0095",
+            "page": 22,
+            "score": 0.01639344262295082
+          }
+        ]
+      },
+      {
+        "id": "dev-07",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "context_hit": true,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p26_0108",
+            "page": 26,
+            "score": 0.03278688524590164
+          },
+          {
+            "chunk_id": "strategy_b_p97_0693",
+            "page": 97,
+            "score": 0.03200204813108039
+          },
+          {
+            "chunk_id": "strategy_b_p27_0119",
+            "page": 27,
+            "score": 0.030621785881252923
+          }
+        ]
+      },
+      {
+        "id": "dev-08",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "context_hit": true,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p28_0129",
+            "page": 28,
+            "score": 0.03278688524590164
+          },
+          {
+            "chunk_id": "strategy_b_p5_0018",
+            "page": 5,
+            "score": 0.03200204813108039
+          },
+          {
+            "chunk_id": "strategy_b_p77_0506",
+            "page": 77,
+            "score": 0.030330882352941176
+          }
+        ]
+      },
+      {
+        "id": "dev-09",
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "context_hit": false,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p45_0272",
+            "page": 45,
+            "score": 0.03252247488101534
+          },
+          {
+            "chunk_id": "strategy_b_p61_0352",
+            "page": 61,
+            "score": 0.032018442622950824
+          },
+          {
+            "chunk_id": "strategy_b_p4_0010",
+            "page": 4,
+            "score": 0.0315136476426799
+          }
+        ]
+      },
+      {
+        "id": "dev-10",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "context_hit": true,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p62_0354",
+            "page": 62,
+            "score": 0.03252247488101534
+          },
+          {
+            "chunk_id": "strategy_b_p16_0062",
+            "page": 16,
+            "score": 0.03252247488101534
+          },
+          {
+            "chunk_id": "strategy_b_p60_0349",
+            "page": 60,
+            "score": 0.03149801587301587
+          }
+        ]
+      },
+      {
+        "id": "dev-11",
+        "hit_at_1": false,
+        "hit_at_3": true,
+        "context_hit": false,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p69_0426",
+            "page": 69,
+            "score": 0.029906956136464335
+          },
+          {
+            "chunk_id": "strategy_b_p70_0431",
+            "page": 70,
+            "score": 0.02964426877470356
+          },
+          {
+            "chunk_id": "strategy_b_p70_0438",
+            "page": 70,
+            "score": 0.0293236301369863
+          }
+        ]
+      },
+      {
+        "id": "dev-12",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "context_hit": true,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p75_0485",
+            "page": 75,
+            "score": 0.03278688524590164
+          },
+          {
+            "chunk_id": "strategy_b_p89_0616",
+            "page": 89,
+            "score": 0.03225806451612903
+          },
+          {
+            "chunk_id": "strategy_b_p89_0617",
+            "page": 89,
+            "score": 0.031746031746031744
+          }
+        ]
+      },
+      {
+        "id": "dev-13",
+        "hit_at_1": false,
+        "hit_at_3": false,
+        "context_hit": false,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p77_0515",
+            "page": 77,
+            "score": 0.031544957774465976
+          },
+          {
+            "chunk_id": "strategy_b_p77_0516",
+            "page": 77,
+            "score": 0.03125
+          },
+          {
+            "chunk_id": "strategy_b_p65_0370",
+            "page": 65,
+            "score": 0.031054405392392875
+          }
+        ]
+      },
+      {
+        "id": "dev-14",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "context_hit": true,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p103_0727",
+            "page": 103,
+            "score": 0.03278688524590164
+          },
+          {
+            "chunk_id": "strategy_b_p103_0732",
+            "page": 103,
+            "score": 0.03225806451612903
+          },
+          {
+            "chunk_id": "strategy_b_p103_0728",
+            "page": 103,
+            "score": 0.031746031746031744
+          }
+        ]
+      },
+      {
+        "id": "dev-15",
+        "hit_at_1": true,
+        "hit_at_3": true,
+        "context_hit": true,
+        "results": [
+          {
+            "chunk_id": "strategy_b_p107_0746",
+            "page": 107,
+            "score": 0.03278688524590164
+          },
+          {
+            "chunk_id": "strategy_b_p109_0753",
+            "page": 109,
+            "score": 0.030330882352941176
+          },
+          {
+            "chunk_id": "strategy_b_p108_0748",
+            "page": 108,
+            "score": 0.030117753623188408
+          }
+        ]
+      }
+    ]
+  }
+]

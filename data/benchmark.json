@@ -1,0 +1,274 @@
+[
+  {
+    "id": "dev-01",
+    "question": "Năm 2025 đánh dấu sự kiện kỷ niệm bao nhiêu năm thành lập của Vinamilk?",
+    "split": "dev",
+    "expected_answer": "Kỷ niệm 50 năm thành lập (1976-2026).",
+    "gold_source_id": "VNM_AR_2025",
+    "gold_page": 4,
+    "evidence_quote": "Nhân dịp kỷ niệm 50 năm thành lập (1976-2026), thay mặt Hội đồng Quản trị (HĐQT), chúng tôi trân trọng gửi đến Quý cổ đông thông điệp về sự Vững vàng, Minh bạch và Cam kết mà Vinamilk luôn duy trì.",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "dev-02",
+    "question": "Trong thông điệp mở đầu, Tổng Giám đốc nhìn lại hành trình phát triển của Vinamilk trong khoảng thời gian bao lâu?",
+    "split": "dev",
+    "expected_answer": "Gần nửa thế kỷ (1976–2026).",
+    "gold_source_id": "VNM_AR_2025",
+    "gold_page": 5,
+    "evidence_quote": "Nhìn lại hành trình gần nửa thế kỷ (1976–2026), từ những ngày đầu tiếp quản các nhà máy cũ kỹ",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "dev-03",
+    "question": "Tuyên bố sứ mệnh của Vinamilk đối với cộng đồng và xã hội là gì?",
+    "split": "dev",
+    "expected_answer": "Vinamilk cam kết mang đến cho cộng đồng nguồn dinh dưỡng tốt nhất, chất lượng nhất bằng chính sự trân trọng, tình yêu và trách nhiệm cao của mình với cuộc sống con người và xã hội.",
+    "gold_source_id": "VNM_AR_2025",
+    "gold_page": 8,
+    "evidence_quote": "“Vinamilk cam kết mang đến cho cộng đồng nguồn dinh dưỡng tốt nhất, chất lượng nhất bằng chính sự trân trọng, tình yêu và trách nhiệm cao của mình với cuộc sống con người và xã hội”",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "dev-04",
+    "question": "Mục tiêu định hướng tầm nhìn dài hạn của Vinamilk là trở thành biểu tượng gì tại Việt Nam?",
+    "split": "dev",
+    "expected_answer": "Biểu tượng niềm tin hàng đầu Việt Nam về sản phẩm dinh dưỡng và sức khỏe phục vụ cuộc sống con người.",
+    "gold_source_id": "VNM_AR_2025",
+    "gold_page": 8,
+    "evidence_quote": "“Trở thành biểu tượng niềm tin hàng đầu Việt Nam về sản phẩm dinh dưỡng và sức khỏe phục vụ cuộc sống con người”",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "dev-05",
+    "question": "Để khởi tạo cơ hội kinh doanh mới, Vinamilk tập trung tối ưu hóa điều gì trong hoạt động phân phối?",
+    "split": "dev",
+    "expected_answer": "Tối ưu hóa năng lực vận hành và mở rộng dịch vụ phân phối đa kênh trực tiếp đến người tiêu dùng.",
+    "gold_source_id": "VNM_AR_2025",
+    "gold_page": 10,
+    "evidence_quote": "Tối ưu hóa năng lực vận hành và mở rộng dịch vụ phân phối đa kênh trực tiếp đến người tiêu dùng.",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "dev-06",
+    "question": "Một thành viên độc lập HĐQT của Vinamilk đồng thời đảm nhiệm vị trí Chủ tịch Ủy ban Kiểm toán của công ty dược phẩm niêm yết nào?",
+    "split": "dev",
+    "expected_answer": "Công ty Cổ phần Dược Hậu Giang – DHG Pharma (DHG).",
+    "gold_source_id": "VNM_AR_2025",
+    "gold_page": 18,
+    "evidence_quote": "Công ty Cổ phần Dược Hậu Giang – DHG Pharma (DHG).",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "dev-07",
+    "question": "Thị trường ngành hàng tiêu dùng nhanh (FMCG) tại Việt Nam năm 2025 có diễn biến tăng trưởng như thế nào?",
+    "split": "dev",
+    "expected_answer": "Ghi nhận mức tăng trưởng khiêm tốn.",
+    "gold_source_id": "VNM_AR_2025",
+    "gold_page": 26,
+    "evidence_quote": "Ngành hàng tiêu dùng nhanh (FMCG) tại Việt Nam ghi nhận mức tăng trưởng khiêm tốn",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "dev-08",
+    "question": "Theo báo cáo của HĐQT, lợi nhuận sau thuế năm 2025 của Vinamilk đạt bao nhiêu và hoàn thành bao nhiêu phần trăm kế hoạch?",
+    "split": "dev",
+    "expected_answer": "Đạt 9.414 tỷ đồng và hoàn thành 97,9% kế hoạch năm.",
+    "gold_source_id": "VNM_AR_2025",
+    "gold_page": 28,
+    "evidence_quote": "Lợi nhuận sau thuế đạt 9.414 tỷ đồng, giảm 0,4% so với cùng kỳ và hoàn thành 97,9% kế hoạch năm, phản ánh khả năng duy trì hiệu quả hoạt động trong bối cảnh thị trường nhiều biến động.",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "dev-09",
+    "question": "Tổ chức Brand Finance đã xếp hạng Vinamilk vào danh sách vinh danh nào trong năm 2025?",
+    "split": "dev",
+    "expected_answer": "Top 100 thương hiệu giá trị nhất Việt Nam 2025.",
+    "gold_source_id": "VNM_AR_2025",
+    "gold_page": 62,
+    "evidence_quote": "Top 100 thương hiệu giá trị nhất Việt Nam 2025 – do Brand Finance vinh danh.",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "dev-10",
+    "question": "Tạp chí Fortune của Mỹ đã bình chọn lãnh đạo nào của Vinamilk vào danh sách 100 phụ nữ quyền lực nhất Châu Á 2025?",
+    "split": "dev",
+    "expected_answer": "Tổng Giám đốc Mai Kiều Liên.",
+    "gold_source_id": "VNM_AR_2025",
+    "gold_page": 62,
+    "evidence_quote": "TGĐ Vinamilk Mai Kiều Liên được tạp chí Fortune (Mỹ) vinh danh Top 100 phụ nữ quyền lực nhất Châu Á 2025 (lần thứ 2 liên tiếp).",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "dev-11",
+    "question": "Người nội bộ của Công ty theo quy định quản trị bao gồm những đối tượng nào?",
+    "split": "dev",
+    "expected_answer": "Thành viên HĐQT, thành viên Giám đốc Điều hành, Kế toán trưởng, Thư ký Công ty, Giám đốc KTNB, Người phụ trách quản trị công ty.",
+    "gold_source_id": "VNM_AR_2025",
+    "gold_page": 70,
+    "evidence_quote": "Người nội bộ của Công ty bao gồm: thành viên HĐQT, thành viên Giám đốc Điều hành, Kế toán trưởng, Thư ký Công ty, Giám đốc KTNB, Người phụ trách quản",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "dev-12",
+    "question": "Bản điều chỉnh của Nội quy lao động được Tổng Giám đốc ký ban hành vào ngày nào?",
+    "split": "dev",
+    "expected_answer": "Ngày 16/09/2024.",
+    "gold_source_id": "VNM_AR_2025",
+    "gold_page": 75,
+    "evidence_quote": "Tổng Giám đốc đã ký ban hành bản điều chỉnh của Nội qui lao động vào ngày 16/09/2024 và đã được công bố công khai trên hệ thống thông tin nội bộ của Vinamilk",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "dev-13",
+    "question": "Trong báo cáo quản trị công ty, mức thù lao năm 2025 của Chủ tịch HĐQT Nguyễn Hạnh Phúc là bao nhiêu triệu đồng?",
+    "split": "dev",
+    "expected_answer": "3.261 triệu đồng.",
+    "gold_source_id": "VNM_AR_2025",
+    "gold_page": 78,
+    "evidence_quote": "1 Nguyễn Hạnh Phúc 3.261\nChủ tịch HĐQT (thành viên độc lập)",
+    "filter": {
+      "section": "quan_tri_cong_ty"
+    },
+    "answerable": true
+  },
+  {
+    "id": "dev-14",
+    "question": "Trong phần phát triển bền vững, dây chuyền công nghệ tiên tiến nào được Vinamilk đầu tư triển khai để tối ưu hiệu suất sản xuất?",
+    "split": "dev",
+    "expected_answer": "Dây chuyền Tetra Pak A3 Speed và hệ thống kho thông minh.",
+    "gold_source_id": "VNM_AR_2025",
+    "gold_page": 103,
+    "evidence_quote": "Đầu tư mạnh vào cơ sở hạ tầng sản xuất thông qua việc triển khai các dây chuyền công nghệ tiên tiến như Tetra Pak A3 Speed và vận hành hệ thống kho thông minh, giúp tối ưu hóa hiệu suất.",
+    "filter": {
+      "section": "phat_trien_ben_vung"
+    },
+    "answerable": true
+  },
+  {
+    "id": "dev-15",
+    "question": "Trong phần báo cáo tài chính, bản đầy đủ của BCTC kiểm toán năm 2025 của Vinamilk được công bố trên website vào ngày nào?",
+    "split": "dev",
+    "expected_answer": "Ngày 27 tháng 02 năm 2025.",
+    "gold_source_id": "VNM_AR_2025",
+    "gold_page": 107,
+    "evidence_quote": "Bản đầy đủ của báo cáo tài chính Riêng và Hợp Nhất đã kiểm toán của Công ty năm 2025 đã được công bố trên website của Công ty vào ngày 27 tháng 02 năm 2025",
+    "filter": {
+      "section": "bao_cao_tai_chinh"
+    },
+    "answerable": true
+  },
+  {
+    "id": "test-01",
+    "question": "Trong phần phát triển bền vững, chính sách tuyển dụng của Vinamilk cam kết điều gì về việc chống phân biệt đối xử?",
+    "split": "test",
+    "expected_answer": "Việc tuyển dụng đảm bảo không có sự kỳ thị và phân biệt đối xử giữa các ứng viên về giới tính, dân tộc, màu da, thành phần xã hội, tình trạng hôn nhân, tín ngưỡng, tôn giáo. Tất cả các ứng viên đều được đối xử công bằng và minh bạch.",
+    "gold_source_id": "VNM_AR_2025",
+    "gold_page": 102,
+    "evidence_quote": "Việc tuyển dụng đảm bảo không có sự kỳ thị và phân biệt đối xử giữa các ứng viên về giới tính, dân tộc, màu da, thành phần xã hội, tình trạng hôn nhân, tín ngưỡng, tôn giáo,…. Tất cả các ứng viên đều được đối xử công bằng và minh bạch trong suốt quá trình tuyển dụng",
+    "filter": {
+      "section": "phat_trien_ben_vung"
+    },
+    "answerable": true
+  },
+  {
+    "id": "test-02",
+    "question": "Đến năm 2025, Vinamilk đã đạt được chứng nhận danh hiệu Hàng Việt Nam Chất Lượng Cao trong thời gian bao nhiêu năm liên tiếp?",
+    "split": "test",
+    "expected_answer": "29 năm liền.",
+    "gold_source_id": "VNM_AR_2025",
+    "gold_page": 60,
+    "evidence_quote": "Hàng Việt Nam Chất Lượng Cao 29 năm liền.",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "test-03",
+    "question": "Hệ thống các đơn vị trực thuộc trong nước của Vinamilk bao gồm bao nhiêu nhà máy sản xuất sữa tại ba miền Bắc, Trung, Nam?",
+    "split": "test",
+    "expected_answer": "13 nhà máy sản xuất sữa.",
+    "gold_source_id": "VNM_AR_2025",
+    "gold_page": 14,
+    "evidence_quote": "13 nhà máy sản xuất sữa tại Bắc, Trung, Nam",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "test-04",
+    "question": "Trong trường hợp cần thiết, Chủ tịch HĐQT có quyền hạn gì đối với các quyết định của Tổng Giám đốc?",
+    "split": "test",
+    "expected_answer": "Có thể tạm đình chỉ những quyết định của Tổng Giám đốc.",
+    "gold_source_id": "VNM_AR_2025",
+    "gold_page": 90,
+    "evidence_quote": "Trong trường hợp cần thiết, Chủ tịch Hội Đồng Quản Trị có thể tạm đình chỉ những quyết định của Tổng",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "test-05",
+    "question": "Trang web chính thức của Vinamilk được duy trì hoạt động bằng những ngôn ngữ nào?",
+    "split": "test",
+    "expected_answer": "Duy trì bằng 02 ngôn ngữ là tiếng Việt và tiếng Anh.",
+    "gold_source_id": "VNM_AR_2025",
+    "gold_page": 80,
+    "evidence_quote": "Website được duy trì bằng 02 ngôn ngữ là tiếng Việt và tiếng Anh trong suốt quá trình hoạt động của Công ty",
+    "filter": null,
+    "answerable": true
+  },
+  {
+    "id": "dev-unans-01",
+    "question": "Vinamilk dự kiến mở bao nhiêu cửa hàng bán lẻ Giấc Mơ Sữa Việt tại thị trường Hoa Kỳ trong năm tài chính 2026?",
+    "split": "dev",
+    "expected_answer": "Tài liệu không có thông tin về kế hoạch mở cửa hàng bán lẻ tại Hoa Kỳ trong năm 2026.",
+    "gold_source_id": "VNM_AR_2025",
+    "gold_page": null,
+    "evidence_quote": null,
+    "filter": null,
+    "answerable": false
+  },
+  {
+    "id": "dev-unans-02",
+    "question": "Chi phí tài trợ cụ thể cho đội tuyển bóng đá nữ quốc gia Việt Nam trong năm 2025 là bao nhiêu tỷ đồng?",
+    "split": "dev",
+    "expected_answer": "Tài liệu không chứa thông tin chi phí tài trợ cụ thể cho đội tuyển bóng đá nữ quốc gia trong năm 2025.",
+    "gold_source_id": "VNM_AR_2025",
+    "gold_page": null,
+    "evidence_quote": null,
+    "filter": null,
+    "answerable": false
+  },
+  {
+    "id": "test-unans-01",
+    "question": "Giá bán lẻ đề xuất của dòng sữa tươi tiệt trùng Vinamilk Green Farm loại 1 lít tại các siêu thị năm 2025 là bao nhiêu?",
+    "split": "test",
+    "expected_answer": "Báo cáo tài chính không công bố bảng giá bán lẻ chi tiết của dòng sữa tươi tiệt trùng Vinamilk Green Farm 1L.",
+    "gold_source_id": "VNM_AR_2025",
+    "gold_page": null,
+    "evidence_quote": null,
+    "filter": null,
+    "answerable": false
+  },
+  {
+    "id": "test-unans-02",
+    "question": "Vinamilk đã ký hợp đồng mua lại bao nhiêu phần trăm cổ phần của TH True Milk trong năm 2025?",
+    "split": "test",
+    "expected_answer": "Tài liệu không có thông tin về việc mua lại cổ phần của TH True Milk.",
+    "gold_source_id": "VNM_AR_2025",
+    "gold_page": null,
+    "evidence_quote": null,
+    "filter": null,
+    "answerable": false
+  }
+]

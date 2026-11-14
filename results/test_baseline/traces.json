@@ -1,0 +1,119 @@
+[
+  {
+    "query_id": "test-01",
+    "status": "answered",
+    "answer": "Vinamilk cam kết đảm bảo không có sự kỳ thị và phân biệt đối xử giữa các ứng viên về giới tính, dân tộc, màu da, thành phần xã hội, tình trạng hôn nhân, tín ngưỡng, tôn giáo trong chính sách tuyển dụng. Tất cả các ứng viên đều được đối xử công bằng và minh bạch trong suốt quá trình tuyển dụng [strategy_b_p102_0718].",
+    "citations": [
+      "strategy_b_p102_0718"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "chính sách tuyển dụng Vinamilk chống phân biệt đối xử 2025",
+        "filter": {
+          "section": "phat_trien_ben_vung"
+        }
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 7.301751136779785
+  },
+  {
+    "query_id": "test-02",
+    "status": "abstain",
+    "answer": "Tài liệu không có đủ bằng chứng để trả lời câu hỏi này.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Hàng Việt Nam Chất Lượng Cao 2025 Vinamilk",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 3.1489245891571045
+  },
+  {
+    "query_id": "test-03",
+    "status": "answered",
+    "answer": "Hệ thống các đơn vị trực thuộc trong nước của Vinamilk bao gồm 13 nhà máy sản xuất sữa tại ba miền Bắc, Trung, Nam [strategy_b_p14_0052].",
+    "citations": [
+      "strategy_b_p14_0052"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "số lượng nhà máy sản xuất sữa Vinamilk tại Bắc, Trung, Nam",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 3.0027811527252197
+  },
+  {
+    "query_id": "test-04",
+    "status": "abstain",
+    "answer": "Tài liệu không có đủ bằng chứng để trả lời câu hỏi này.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "quyền hạn Chủ tịch HĐQT đối với quyết định Tổng Giám đốc",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 2.162856101989746
+  },
+  {
+    "query_id": "test-05",
+    "status": "answered",
+    "answer": "Trang web chính thức của Vinamilk được duy trì hoạt động bằng hai ngôn ngữ: tiếng Việt và tiếng Anh [strategy_b_p79_0530].",
+    "citations": [
+      "strategy_b_p79_0530"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "ngôn ngữ trang web Vinamilk",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 4.5735039710998535
+  },
+  {
+    "query_id": "test-unans-01",
+    "status": "abstain",
+    "answer": "Tài liệu không có đủ bằng chứng để trả lời câu hỏi này.",
+    "citations": [],
+    "events": [
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 1.287468433380127
+  },
+  {
+    "query_id": "test-unans-02",
+    "status": "abstain",
+    "answer": "Tài liệu không có đủ bằng chứng để trả lời câu hỏi này.",
+    "citations": [],
+    "events": [
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 0.8724393844604492
+  }
+]

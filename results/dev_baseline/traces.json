@@ -1,0 +1,284 @@
+[
+  {
+    "query_id": "dev-01",
+    "status": "answered",
+    "answer": "Năm 2025 đánh dấu sự kiện kỷ niệm 50 năm thành lập của Vinamilk (1976–2026) [strategy_b_p5_0019].",
+    "citations": [
+      "strategy_b_p5_0019"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "kỷ niệm bao nhiêu năm thành lập Vinamilk 2025",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 5.607952833175659
+  },
+  {
+    "query_id": "dev-02",
+    "status": "answered",
+    "answer": "Trong thông điệp mở đầu, Tổng Giám đốc nhìn lại hành trình phát triển của Vinamilk trong 50 năm [strategy_b_p47_0286].",
+    "citations": [
+      "strategy_b_p47_0286"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "thông điệp mở đầu Tổng Giám đốc hành trình phát triển Vinamilk",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 3.944730281829834
+  },
+  {
+    "query_id": "dev-03",
+    "status": "answered",
+    "answer": "Tuyên bố sứ mệnh của Vinamilk đối với cộng đồng và xã hội là mang đến cho cộng đồng nguồn dinh dưỡng tốt nhất, chất lượng nhất bằng chính sự trân trọng, tình yêu và trách nhiệm với cuộc sống, con người và xã hội [strategy_b_p73_0465].",
+    "citations": [
+      "strategy_b_p73_0465"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "tuyên bố sứ mệnh Vinamilk cộng đồng xã hội",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 6.073651075363159
+  },
+  {
+    "query_id": "dev-04",
+    "status": "answered",
+    "answer": "Mục tiêu định hướng tầm nhìn dài hạn của Vinamilk là trở thành biểu tượng niềm tin hàng đầu Việt Nam về sản phẩm dinh dưỡng và sức khỏe phục vụ cuộc sống con người [strategy_b_p8_0028].",
+    "citations": [
+      "strategy_b_p8_0028"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "tầm nhìn dài hạn Vinamilk biểu tượng Việt Nam",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 4.415396451950073
+  },
+  {
+    "query_id": "dev-05",
+    "status": "answered",
+    "answer": "Vinamilk tập trung tối ưu hóa hoạt động phân phối thông qua việc xây dựng nền tảng năng lực làm chủ công nghệ, chuẩn bị cho các dự án tối ưu hóa hoạt động kinh doanh bằng tự động hóa và phân tích dữ liệu, bắt đầu với hoạt động bán hàng và tiếp thị kỹ thuật số [strategy_b_p9_0036].",
+    "citations": [
+      "strategy_b_p9_0036"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Vinamilk tối ưu hóa hoạt động phân phối 2025",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 4.961869478225708
+  },
+  {
+    "query_id": "dev-06",
+    "status": "abstain",
+    "answer": "Tài liệu không có đủ bằng chứng để trả lời câu hỏi này.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "thành viên độc lập HĐQT Vinamilk Chủ tịch Ủy ban Kiểm toán công ty dược phẩm niêm yết",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 5.218224287033081
+  },
+  {
+    "query_id": "dev-07",
+    "status": "abstain",
+    "answer": "Tài liệu không có đủ bằng chứng để trả lời câu hỏi này.",
+    "citations": [],
+    "events": [
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 2.6936540603637695
+  },
+  {
+    "query_id": "dev-08",
+    "status": "abstain",
+    "answer": "Tài liệu không có đủ bằng chứng để trả lời câu hỏi này.",
+    "citations": [],
+    "events": [
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 4.901026964187622
+  },
+  {
+    "query_id": "dev-09",
+    "status": "answered",
+    "answer": "Tổ chức Brand Finance đã xếp hạng Vinamilk vào Top 5% thương hiệu mạnh nhất thế giới với mức xếp hạng AAA+ trong năm 2025 [strategy_b_p45_0272].",
+    "citations": [
+      "strategy_b_p45_0272"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Brand Finance xếp hạng Vinamilk 2025",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 8.341382503509521
+  },
+  {
+    "query_id": "dev-10",
+    "status": "abstain",
+    "answer": "Tài liệu không có đủ bằng chứng để trả lời câu hỏi này.",
+    "citations": [],
+    "events": [
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 4.055640935897827
+  },
+  {
+    "query_id": "dev-11",
+    "status": "answered",
+    "answer": "Người nội bộ của Công ty theo quy định quản trị bao gồm: thành viên HĐQT, thành viên Giám đốc Điều hành, Kế toán trưởng, Thư ký Công ty, Giám đốc KTNB, Người phụ trách quản trị Công ty [strategy_b_p70_0431].",
+    "citations": [
+      "strategy_b_p70_0431"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "người nội bộ công ty quy định quản trị",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 5.791904449462891
+  },
+  {
+    "query_id": "dev-12",
+    "status": "answered",
+    "answer": "Bản điều chỉnh của Nội quy lao động được Tổng Giám đốc ký ban hành vào ngày 16/09/2024 [strategy_b_p75_0485].",
+    "citations": [
+      "strategy_b_p75_0485"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "ngày Tổng Giám đốc ký ban hành Nội quy lao động",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 2.261945962905884
+  },
+  {
+    "query_id": "dev-13",
+    "status": "abstain",
+    "answer": "Tài liệu không có đủ bằng chứng để trả lời câu hỏi này.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "mức thù lao năm 2025 của Chủ tịch HĐQT Nguyễn Hạnh Phúc",
+        "filter": {
+          "section": "quan_tri_cong_ty"
+        }
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 4.12177300453186
+  },
+  {
+    "query_id": "dev-14",
+    "status": "answered",
+    "answer": "Vinamilk đã đầu tư triển khai các dây chuyền công nghệ tiên tiến như Tetra Pak A3 Speed và vận hành hệ thống kho thông minh để tối ưu hóa hiệu suất sản xuất [strategy_b_p103_0727]. Ngoài ra, công ty còn áp dụng công nghệ tự động hóa và quy trình sản xuất tiên tiến tại các nhà máy và trang trại [strategy_b_p103_0728].",
+    "citations": [
+      "strategy_b_p103_0727",
+      "strategy_b_p103_0728"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "dây chuyền công nghệ tiên tiến Vinamilk 2025",
+        "filter": {
+          "section": "phat_trien_ben_vung"
+        }
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 4.793713092803955
+  },
+  {
+    "query_id": "dev-15",
+    "status": "abstain",
+    "answer": "Tài liệu không có đủ bằng chứng để trả lời câu hỏi này.",
+    "citations": [],
+    "events": [
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 1.0058174133300781
+  },
+  {
+    "query_id": "dev-unans-01",
+    "status": "abstain",
+    "answer": "Tài liệu không có đủ bằng chứng để trả lời câu hỏi này.",
+    "citations": [],
+    "events": [
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 1.1393215656280518
+  },
+  {
+    "query_id": "dev-unans-02",
+    "status": "abstain",
+    "answer": "Tài liệu không có đủ bằng chứng để trả lời câu hỏi này.",
+    "citations": [],
+    "events": [
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 0.9145076274871826
+  }
+]

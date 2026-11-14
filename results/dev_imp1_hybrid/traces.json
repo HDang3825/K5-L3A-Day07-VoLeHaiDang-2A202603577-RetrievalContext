@@ -1,0 +1,297 @@
+[
+  {
+    "query_id": "dev-01",
+    "status": "answered",
+    "answer": "Năm 2025 đánh dấu sự kiện kỷ niệm 50 năm thành lập của Vinamilk [strategy_b_p27_0116, strategy_b_p35_0191, strategy_b_p66_0380].",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "năm thành lập Vinamilk",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 5.5049216747283936
+  },
+  {
+    "query_id": "dev-02",
+    "status": "answered",
+    "answer": "Trong thông điệp mở đầu, Tổng Giám đốc nhìn lại hành trình phát triển của Vinamilk trong 50 năm, với thông điệp xuyên suốt '50 Năm Để Tâm Phụng Sự' [strategy_b_p47_0286].",
+    "citations": [
+      "strategy_b_p47_0286"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "thông điệp mở đầu Tổng Giám đốc hành trình phát triển Vinamilk",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 8.421887159347534
+  },
+  {
+    "query_id": "dev-03",
+    "status": "answered",
+    "answer": "Tuyên bố sứ mệnh của Vinamilk đối với cộng đồng và xã hội là mang đến cho cộng đồng nguồn dinh dưỡng tốt nhất, chất lượng nhất bằng chính sự trân trọng, tình yêu và trách nhiệm với cuộc sống, con người và xã hội [strategy_b_p73_0465].",
+    "citations": [
+      "strategy_b_p73_0465"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Tuyên bố sứ mệnh của Vinamilk đối với cộng đồng và xã hội",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 7.267688751220703
+  },
+  {
+    "query_id": "dev-04",
+    "status": "abstain",
+    "answer": "Tài liệu không có đủ bằng chứng để trả lời câu hỏi này.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "tầm nhìn dài hạn của Vinamilk",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 2.802398681640625
+  },
+  {
+    "query_id": "dev-05",
+    "status": "answered",
+    "answer": "Vinamilk tập trung tối ưu hóa hoạt động phân phối bằng cách xây dựng nền tảng năng lực làm chủ công nghệ, chuẩn bị cho các dự án tối ưu hóa hoạt động kinh doanh thông qua tự động hóa và phân tích dữ liệu, bắt đầu với hoạt động bán hàng và tiếp thị kỹ thuật số [strategy_b_p9_0036].",
+    "citations": [
+      "strategy_b_p9_0036"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Vinamilk tối ưu hóa hoạt động phân phối 2025",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 10.65085482597351
+  },
+  {
+    "query_id": "dev-06",
+    "status": "answered",
+    "answer": "Một thành viên độc lập HĐQT của Vinamilk đồng thời đảm nhiệm vị trí Chủ tịch Ủy ban Kiểm toán của Công ty Cổ phần Dược Hậu Giang – DHG Pharma (DHG) [strategy_b_p18_0069].",
+    "citations": [
+      "strategy_b_p18_0069"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "thành viên độc lập HĐQT Vinamilk Chủ tịch Ủy ban Kiểm toán công ty dược phẩm niêm yết",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 4.038623094558716
+  },
+  {
+    "query_id": "dev-07",
+    "status": "abstain",
+    "answer": "Tài liệu không có đủ bằng chứng để trả lời câu hỏi này.",
+    "citations": [],
+    "events": [
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 1.1879768371582031
+  },
+  {
+    "query_id": "dev-08",
+    "status": "answered",
+    "answer": "Theo báo cáo của HĐQT, lợi nhuận sau thuế năm 2025 của Vinamilk đạt 9.414 tỷ đồng và hoàn thành 98,8% kế hoạch [strategy_b_p48_0294].",
+    "citations": [
+      "strategy_b_p48_0294"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "lợi nhuận sau thuế 2025 Vinamilk hoàn thành kế hoạch",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 4.8391735553741455
+  },
+  {
+    "query_id": "dev-09",
+    "status": "answered",
+    "answer": "Trong năm 2025, tổ chức Brand Finance đã xếp hạng Vinamilk vào Top 5% thương hiệu mạnh nhất thế giới với xếp hạng AAA+ - mức xếp hạng cao nhất theo đánh giá của Brand Finance [strategy_b_p45_0272].",
+    "citations": [
+      "strategy_b_p45_0272"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "Brand Finance xếp hạng Vinamilk 2025",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 5.646042108535767
+  },
+  {
+    "query_id": "dev-10",
+    "status": "abstain",
+    "answer": "Tài liệu không có đủ bằng chứng để trả lời câu hỏi này.",
+    "citations": [],
+    "events": [
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 2.9663288593292236
+  },
+  {
+    "query_id": "dev-11",
+    "status": "answered",
+    "answer": "Người nội bộ của Công ty Vinamilk theo quy định quản trị bao gồm: thành viên HĐQT, thành viên Giám đốc Điều hành, Kế toán trưởng, Thư ký Công ty, Giám đốc KTNB, Người phụ trách quản trị Công ty [strategy_b_p70_0431].",
+    "citations": [
+      "strategy_b_p70_0431"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "người nội bộ công ty Vinamilk quy định quản trị",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 5.238393545150757
+  },
+  {
+    "query_id": "dev-12",
+    "status": "answered",
+    "answer": "Bản điều chỉnh của Nội quy lao động được Tổng Giám đốc ký ban hành vào ngày 16/09/2024 [strategy_b_p75_0485].",
+    "citations": [
+      "strategy_b_p75_0485"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "ngày Tổng Giám đốc ký ban hành Nội quy lao động",
+        "filter": null
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 6.392072916030884
+  },
+  {
+    "query_id": "dev-13",
+    "status": "abstain",
+    "answer": "Tài liệu không có đủ bằng chứng để trả lời câu hỏi này.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "mức thù lao năm 2025 của Chủ tịch HĐQT Nguyễn Hạnh Phúc",
+        "filter": {
+          "section": "quan_tri_cong_ty"
+        }
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 3.9460501670837402
+  },
+  {
+    "query_id": "dev-14",
+    "status": "answered",
+    "answer": "Vinamilk đã đầu tư triển khai các dây chuyền công nghệ tiên tiến như Tetra Pak A3 Speed và vận hành hệ thống kho thông minh để tối ưu hóa hiệu suất sản xuất [strategy_b_p103_0727].",
+    "citations": [
+      "strategy_b_p103_0727"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "dây chuyền công nghệ tiên tiến Vinamilk phát triển bền vững 2025",
+        "filter": {
+          "section": "phat_trien_ben_vung"
+        }
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 4.191323757171631
+  },
+  {
+    "query_id": "dev-15",
+    "status": "answered",
+    "answer": "Bản đầy đủ của báo cáo tài chính kiểm toán năm 2025 của Vinamilk được công bố trên website của công ty vào ngày 27 tháng 02 năm 2025 [strategy_b_p107_0746].",
+    "citations": [
+      "strategy_b_p107_0746"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "ngày công bố BCTC kiểm toán 2025 Vinamilk",
+        "filter": {
+          "section": "bao_cao_tai_chinh"
+        }
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 5.571900367736816
+  },
+  {
+    "query_id": "dev-unans-01",
+    "status": "abstain",
+    "answer": "Tài liệu không có đủ bằng chứng để trả lời câu hỏi này.",
+    "citations": [],
+    "events": [
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 1.212965488433838
+  },
+  {
+    "query_id": "dev-unans-02",
+    "status": "abstain",
+    "answer": "Tài liệu không có đủ bằng chứng để trả lời câu hỏi này.",
+    "citations": [],
+    "events": [
+      {
+        "event": "answer"
+      }
+    ],
+    "elapsed_s": 1.8855960369110107
+  }
+]
